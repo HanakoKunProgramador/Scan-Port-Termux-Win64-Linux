@@ -10,6 +10,10 @@
     
       pkg install python:
 
+  2.1 Install pip and Colorama
+
+      pkg install python-pip && pip install colorama
+    
   3.Install git:
     
       pkg install git
